@@ -1,0 +1,6 @@
+{
+  "name": "NGPM 网络与业务性能管理平台",
+  "description": "NGPM 网络与业务性能管理平台 - 功能配置与协议模型定义系统",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
